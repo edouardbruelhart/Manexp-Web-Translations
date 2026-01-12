@@ -5,7 +5,7 @@ import resources.strings.Strings
 
 object StringsFr : Strings {
 
-    // Debu
+    // Debug
 
     // welcome
     override val welcomeMessage = "Bienvenue sur Manexp!"
