@@ -4,7 +4,7 @@ import helpers.DeviceInformation
 import resources.strings.Strings
 
 object StringsFr : Strings {
-    // welcomee
+    // welcome
     override val welcomeMessage = "Bienvenue sur Manexp!"
     override val setupMessage = "Pour commencer, connectez-vous à votre compte Google, puis cliquez sur Synchroniser. Vous pouvez également télécharger l'application sur votre appareil."
     override val iosDevice = "Appareil IOS détecté. Vous pouvez installer l'application via Safari en cliquant sur \"Partager\" (carré avec une flèche vers le haut) puis \"Sur l'écran d'accueil\"."
